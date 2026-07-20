@@ -20,10 +20,10 @@
 		"typescript": "^5.0.0"
 	},
 	"dependencies": {
-		"zen-cli": "^0.0.2",
-		"zenn-cli": "^0.1.158",
 		"@commitlint/cli": "^19.5.0",
 		"@commitlint/config-conventional": "^19.5.0",
-		"lefthook": "^1.7.18"
+		"lefthook": "^1.7.18",
+		"zen-cli": "^0.0.2",
+		"zenn-cli": "^0.5.2"
 	}
 }
